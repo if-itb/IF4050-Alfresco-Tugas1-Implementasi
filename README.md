@@ -2,6 +2,8 @@ Project ini merupakan contoh aplikasi yang menggunakan service pada Alfresco. Di
 
 Anggota kelompok:
 
+13509085 - Andre Novelando
+
 13511026 - Akbar Juang Saputra
 
 13512030 - Alvin Natawiguna
@@ -10,4 +12,3 @@ Anggota kelompok:
 
 13511078 - Taufik Hidayat
 
-Catatan: Project ini belum selesai sepenuhnya. Fitur belum lengkap dan masih ada error.
