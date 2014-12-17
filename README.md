@@ -12,7 +12,8 @@ Anggota kelompok:
 
 13511078 - Taufik Hidayat
 
-Cara Meng-install Alfresco (Windows)
+## Cara Meng-install Alfresco (Windows)
+
 1. Download file instalasi alfresco-enterprise-3.4.14-installer-win-x32.exe alfresco-enterprise-3.4.14-installer-win-x64.exe. Pilih file instalasi yang sesuai dengan versi OS.
 2. Double-klik file untuk memulai proses instalasi.
 3. Di jendela installation type, pilih cara yang dinginkan untuk menggunakan setup wizard.
