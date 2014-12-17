@@ -49,7 +49,8 @@ Anggota kelompok:
 	Gunakan script di directory instalasi untuk memulai atau menghentikan service :
 		servicerun start dan servicerun stop
 
-Cara Penggunaan aplikasi:
+## Cara Penggunaan aplikasi:
+
 1. Import project alfresco-cloud-example ke Eclipse atupun Netbeans.
 2. Ubah nilai Alfresco_API_URL pada file BaseJavaExample.java menjadi domain yang telah kita buat sebelumnya.
 3. Export project menjadi jar file.
